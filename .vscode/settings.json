@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "malloc.h": "c",
+        "stdio.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
